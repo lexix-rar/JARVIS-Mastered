@@ -99,5 +99,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Designed with ❤️ by [Your Name/Handle]*
-*"The suit and the system are one."*
